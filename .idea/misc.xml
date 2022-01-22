@@ -10,6 +10,12 @@
       </list>
     </option>
   </component>
+  <component name="ProjectResources">
+    <resource url="http://java.sun.com/jsf/core" location="$PROJECT_DIR$" />
+    <resource url="http://java.sun.com/jsf/facelets" location="$PROJECT_DIR$" />
+    <resource url="http://java.sun.com/jsf/html" location="$PROJECT_DIR$" />
+    <resource url="http://primefaces.org/ui" location="$PROJECT_DIR$" />
+  </component>
   <component name="ProjectRootManager" version="2" languageLevel="JDK_15" default="true" project-jdk-name="openjdk-15" project-jdk-type="JavaSDK">
     <output url="file://$PROJECT_DIR$/out" />
   </component>
